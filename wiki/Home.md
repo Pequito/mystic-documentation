@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pequito/mystic-documentation/main/assets/wiki/mystic_documentation_dashboard.jpg" alt="Mystic Documentation" width="100%">
+  <img src="https://raw.githubusercontent.com/Pequito/mystic-documentation/main/assets/wiki/mystic_documentation_dashboard.png" alt="Mystic Documentation" width="100%">
 </p>
 
 # Mystic Documentation
