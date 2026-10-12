@@ -59,8 +59,12 @@ Corrections, tested procedures, screenshots, diagrams, version notes, and additi
 
 See [CONTRIBUTING.md](CONTRIBUTING.md).
 
+## Mystic BBS Author
+
+Mystic BBS was created by **James Coyle**. This repository is an independent community documentation project for his software and is not an official Mystic BBS publication.
+
 ## License
 
 Documentation in this repository is provided under the [MIT License](LICENSE).
 
-Mystic BBS and associated names, software, and trademarks are the property of their respective owner(s). This repository is an independent community documentation project.
+Mystic BBS was created by James Coyle. Software names and trademarks remain the property of their respective rights holders.
