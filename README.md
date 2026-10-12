@@ -15,12 +15,12 @@
 
 | Goal | Documentation |
 |---|---|
-| New or returning SysOp | [Getting Started](wiki/Getting-Started.md) |
-| Understand Mystic and its components | [What Is Mystic BBS?](wiki/What-Is-Mystic-BBS.md) |
-| Install a new system | [Installing Mystic](wiki/Installing-Mystic.md) |
-| Learn the configuration system | [Mystic Configuration System](wiki/Mystic-Configuration-System.md) |
-| Begin FTN networking | [FTN Networking](wiki/FTN-Networking.md) |
-| Review project coverage | [Documentation Status](wiki/Documentation-Status.md) |
+| New or returning SysOp | [Getting Started](https://github.com/Pequito/mystic-documentation/wiki/Getting-Started) |
+| Understand Mystic and its components | [What Is Mystic BBS?](https://github.com/Pequito/mystic-documentation/wiki/What-Is-Mystic-BBS) |
+| Install a new system | [Installing Mystic](https://github.com/Pequito/mystic-documentation/wiki/Installing-Mystic) |
+| Learn the configuration system | [Mystic Configuration System](https://github.com/Pequito/mystic-documentation/wiki/Mystic-Configuration-System) |
+| Begin FTN networking | [FTN Networking](https://github.com/Pequito/mystic-documentation/wiki/FTN-Networking) |
+| Review project coverage | [Documentation Status](https://github.com/Pequito/mystic-documentation/wiki/Documentation-Status) |
 
 ## Current Documentation
 
@@ -28,23 +28,23 @@
 
 The first foundation pass is complete and currently marked **Draft / Needs verification** while procedures are reproduced against named Mystic releases and platforms.
 
-- [Getting Started](wiki/Getting-Started.md)
-- [What Is Mystic BBS?](wiki/What-Is-Mystic-BBS.md)
-- [Installing Mystic](wiki/Installing-Mystic.md)
-- [Creating the First SysOp Account](wiki/First-Sysop-Account.md)
-- [Mystic Directory Structure](wiki/Mystic-Directory-Structure.md)
-- [Mystic Configuration System](wiki/Mystic-Configuration-System.md)
-- [Starting Mystic](wiki/Starting-Mystic.md)
-- [Backup and Upgrade](wiki/Backup-and-Upgrade.md)
+- [Getting Started](https://github.com/Pequito/mystic-documentation/wiki/Getting-Started)
+- [What Is Mystic BBS?](https://github.com/Pequito/mystic-documentation/wiki/What-Is-Mystic-BBS)
+- [Installing Mystic](https://github.com/Pequito/mystic-documentation/wiki/Installing-Mystic)
+- [Creating the First SysOp Account](https://github.com/Pequito/mystic-documentation/wiki/First-Sysop-Account)
+- [Mystic Directory Structure](https://github.com/Pequito/mystic-documentation/wiki/Mystic-Directory-Structure)
+- [Mystic Configuration System](https://github.com/Pequito/mystic-documentation/wiki/Mystic-Configuration-System)
+- [Starting Mystic](https://github.com/Pequito/mystic-documentation/wiki/Starting-Mystic)
+- [Backup and Upgrade](https://github.com/Pequito/mystic-documentation/wiki/Backup-and-Upgrade)
 
 ### FTN Networking
 
 The FTN section currently establishes the core concepts and mail-flow model before moving into transport and automation topics.
 
-- [FTN Networking Overview](wiki/FTN-Networking.md)
-- [FTN Addressing](wiki/FTN-Addressing.md)
-- [Echomail and Netmail](wiki/Echomail-and-Netmail.md)
-- [Mystic FTN Mail Flow](wiki/Mystic-FTN-Mail-Flow.md)
+- [FTN Networking Overview](https://github.com/Pequito/mystic-documentation/wiki/FTN-Networking)
+- [FTN Addressing](https://github.com/Pequito/mystic-documentation/wiki/FTN-Addressing)
+- [Echomail and Netmail](https://github.com/Pequito/mystic-documentation/wiki/Echomail-and-Netmail)
+- [Mystic FTN Mail Flow](https://github.com/Pequito/mystic-documentation/wiki/Mystic-FTN-Mail-Flow)
 
 Planned FTN coverage includes EchoMail Nodes, BinkP, MUTIL mail processing, MIS POLL, AreaFix, FileFix, TIC/file echoes, routing, nodelists, and troubleshooting. Legacy FIDOPOLL behavior will be documented only where it is useful for historical or upgrade reference.
 
@@ -90,7 +90,7 @@ Documentation uses the following broad status levels:
 
 A procedure is not considered verified simply because the configuration appears correct. Verification should include the expected runtime result.
 
-See [Documentation Status](wiki/Documentation-Status.md) for current coverage.
+See [Documentation Status](https://github.com/Pequito/mystic-documentation/wiki/Documentation-Status) for current coverage.
 
 ## MPL and MPY Development
 
@@ -106,13 +106,13 @@ This repository may document how scripting integrates with Mystic features, but 
 mystic-documentation/
 ├── assets/
 │   └── wiki/          # Documentation artwork and wiki assets
-├── wiki/              # Wiki-style Markdown documentation
+├── wiki/              # Wiki source Markdown
 ├── CONTRIBUTING.md    # Contribution guidelines
 ├── LICENSE             # Documentation license
 └── README.md           # Project overview
 ```
 
-The wiki source includes custom navigation through [`wiki/_Sidebar.md`](wiki/_Sidebar.md) and shared footer content through [`wiki/_Footer.md`](wiki/_Footer.md).
+The published documentation is available in the [GitHub Wiki](https://github.com/Pequito/mystic-documentation/wiki). The `wiki/` directory in this repository is maintained as the source copy for that documentation, including custom sidebar and footer content.
 
 ## Contributing
 
