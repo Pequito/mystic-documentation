@@ -5,6 +5,8 @@
 
 Mystic BBS is a bulletin board system package designed to provide interactive text-based services for local and remote users. A Mystic system can host message areas, file areas, menus, themes, user accounts, network services, and automated tasks from a single BBS environment.
 
+Mystic BBS was created by **James Coyle**.
+
 Mystic is commonly used for traditional Internet-accessible BBS systems and for store-and-forward message networks such as FTNs. It also includes scripting and development features for SysOps who want to customize how their system behaves.
 
 ## Core Parts of a Mystic System
