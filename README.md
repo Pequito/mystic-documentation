@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/wiki/mystic_documentation_dashboard.png" alt="Mystic Documentation" width="100%">
+  <img src="assets/wiki/mystic_documentation_dashboard_twinkle.svg" alt="Mystic Documentation" width="100%">
 </p>
 
 # Mystic Documentation

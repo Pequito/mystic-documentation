@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="2172" height="724" viewBox="0 0 2172 724">
+  <image href="https://raw.githubusercontent.com/Pequito/mystic-documentation/main/assets/wiki/mystic_documentation_dashboard.png" xlink:href="https://raw.githubusercontent.com/Pequito/mystic-documentation/main/assets/wiki/mystic_documentation_dashboard.png" x="0" y="0" width="2172" height="724" preserveAspectRatio="xMidYMid slice"/>
+  <defs>
+    <filter id="twinkleShadow" x="-20%" y="-50%" width="140%" height="200%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="blur"/>
+      <feOffset dx="1" dy="1" result="offsetBlur"/>
+      <feFlood flood-color="#000000" flood-opacity="0.9" result="shadowColor"/>
+      <feComposite in="shadowColor" in2="offsetBlur" operator="in" result="shadow"/>
+      <feMerge>
+        <feMergeNode in="shadow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+  <g filter="url(#twinkleShadow)" fill="#d6ad55" stroke="#d6ad55">
+    <line x1="1938" y1="686" x2="1970" y2="686" stroke-width="1.4" opacity="0.9"/>
+    <text x="2033" y="692" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="20" font-weight="400" letter-spacing="0.7" stroke="none">Twinkle BBS</text>
+    <line x1="2096" y1="686" x2="2143" y2="686" stroke-width="1.4" opacity="0.9"/>
+  </g>
+</svg>
