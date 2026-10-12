@@ -6,6 +6,8 @@
 
 Welcome to the community-maintained Mystic BBS documentation project.
 
+Mystic BBS was created by **James Coyle**. This documentation project is an independent community effort and is not an official Mystic BBS publication.
+
 This documentation is intended for SysOps, FTN network operators, developers, and users who want a practical reference for installing, configuring, operating, troubleshooting, and extending Mystic BBS.
 
 ## Start Here
@@ -68,4 +70,4 @@ See [Documentation Status](Documentation-Status) for current coverage.
 
 ---
 
-Mystic BBS and associated names, software, and trademarks are the property of their respective owner(s). This is an independent community documentation project.
+Mystic BBS was created by **James Coyle**. Mystic Documentation is an independent community documentation project.
