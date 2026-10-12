@@ -6,6 +6,16 @@
 - [Getting Started](Getting-Started)
 - [Documentation Status](Documentation-Status)
 
+**Phase 1: Foundation**
+
+- [What Is Mystic BBS?](What-Is-Mystic-BBS)
+- [Installing Mystic](Installing-Mystic)
+- [First SysOp Account](First-Sysop-Account)
+- [Directory Structure](Mystic-Directory-Structure)
+- [Configuration System](Mystic-Configuration-System)
+- [Starting Mystic](Starting-Mystic)
+- [Backup and Upgrade](Backup-and-Upgrade)
+
 **FTN Networking**
 
 - [FTN Overview](FTN-Networking)
