@@ -1,1 +1,1 @@
-Mystic Documentation is an independent community documentation project. [Repository](https://github.com/Pequito/mystic-documentation) · [Contributing](https://github.com/Pequito/mystic-documentation/blob/main/CONTRIBUTING.md)
+Mystic BBS was created by **James Coyle**. Mystic Documentation is an independent community documentation project. [Repository](https://github.com/Pequito/mystic-documentation) · [Contributing](https://github.com/Pequito/mystic-documentation/blob/main/CONTRIBUTING.md)
