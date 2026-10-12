@@ -1,12 +1,12 @@
-### Mystic Documentation
+### Mystic BBS Community Documentation
 
-**Start Here**
+*Documentation for Mystic BBS, created by James Coyle.*
 
-- [Home](Home)
-- [Getting Started](Getting-Started)
-- [Documentation Status](Documentation-Status)
+[Home](Home) · [Getting Started](Getting-Started) · [Status](Documentation-Status)
 
-**Phase 1: Foundation**
+---
+
+**Getting Started**
 
 - [What Is Mystic BBS?](What-Is-Mystic-BBS)
 - [Installing Mystic](Installing-Mystic)
