@@ -25,6 +25,13 @@ This page tracks the broad coverage of the Mystic Documentation project.
 | Starting Mystic | Draft | Needs verification | Local mode, configuration mode, and MIS startup concepts |
 | Backup and Upgrade | Draft | Needs verification | Backup, upgrade, verification, and rollback workflow |
 
+## Phase 2: Core BBS Administration
+
+| Area | Status | Verification | Notes |
+|---|---|---|---|
+| Users and Security | Draft | Needs verification | Account editing, security levels, new-user defaults; screenshots pending publication |
+| Message Groups and Bases | Draft | Needs verification | Message organization and runtime interface; screenshots pending publication |
+
 ## FTN Networking
 
 | Area | Status | Notes |
