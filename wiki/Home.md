@@ -71,3 +71,11 @@ See [Documentation Status](Documentation-Status) for current coverage.
 ---
 
 Mystic BBS was created by **James Coyle**. Mystic Documentation is an independent community documentation project.
+
+
+## Phase 2: Core BBS Administration (Draft)
+
+- [Users and Security](Users-and-Security) — Draft / Needs verification
+- [Message Groups and Bases](Message-Groups-and-Bases) — Draft / Needs verification
+
+Screenshots are pending publication; see the review branch before promoting these pages to the published GitHub Wiki.
