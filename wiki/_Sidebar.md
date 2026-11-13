@@ -16,6 +16,11 @@
 - [Starting Mystic](Starting-Mystic)
 - [Backup and Upgrade](Backup-and-Upgrade)
 
+**Users and Security**
+
+- [Users and Security](Users-and-Security)
+- [Message Groups and Bases](Message-Groups-and-Bases)
+
 **FTN Networking**
 
 - [FTN Overview](FTN-Networking)
